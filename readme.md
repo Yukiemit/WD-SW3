@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  The task for Seatwork 3 is to design and implement headers and footers for websites. This involves applying various structures and designs to create five distinct headers and footers.
 </div>
 
 <br />
@@ -55,15 +55,8 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The task for Seatwork 3 is to design and implement headers and footers for websites. This involves applying various structures and designs to create five distinct headers and footers.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
