@@ -7,10 +7,11 @@
   <a href="https://github.com/zyx-0314/">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Header and footer SW3</h3>
+  <h3 align="center">Seatwork 3: Footer & Header</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
+  This is for demonstrating skills in HTML and CSS with Multiple Pages, Effects and Container Manipulations. Providing a Different Versions of Headers and Footers.
 </div>
 
 <br />
