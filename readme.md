@@ -57,9 +57,11 @@ Description for the SW3
 The task for Seatwork 3 is to design and implement headers and footers for websites. This involves applying various structures and designs to create five distinct headers and footers.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website
+- Header Animation
+  - Hover Effect
+  - Active Effect
+  - Multi Layer Domino Effect
+  - Not Effect
 
 ### Technology
 <!-- TODO: List of Technology Used -->
