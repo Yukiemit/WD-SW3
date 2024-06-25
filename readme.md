@@ -11,7 +11,6 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  The task for Seatwork 3 is to design and implement headers and footers for websites. This involves applying various structures and designs to create five distinct headers and footers.
 </div>
 
 <br />
@@ -53,6 +52,7 @@
 
 ## Overview
 
+Description for the SW3
 
 The task for Seatwork 3 is to design and implement headers and footers for websites. This involves applying various structures and designs to create five distinct headers and footers.
 
